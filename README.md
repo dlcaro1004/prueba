@@ -1,5 +1,40 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
+# PROJECT: uDATAPATH_Collatz
+
+## DESCRIPCIÓN DEL COMPONENTE / COMPONENT DESCRIPTION
+AAA AAA AAA
+
+## SÍMBOLO / SYMBOL
+AAA AAA AAA
+
+## DIAGRAMA DE CAJA NEGRA / BLACK BOX DIAGRAM
+AAA AAA AAA
+
+## FUNCIONALIDAD / FUNCTIONALITY
+AAA AAA AAA
+
+## HDL: CAJA NEGRA / HDL: BLACK BOX
+AAA AAA AAA
+
+## DEFINICIÓN VECTORES DE PRUEBA / TEST VECTORS DEFINITION
+AAA AAA AAA
+
+## HDL: VECTORES DE PRUEBA / HDL: TEST VECTORS
+AAA AAA AAA
+
+## DIAGRAMA DE CAJA BLANCA / WHITE BOX DIAGRAM
+AAA AAA AAA
+
+## HDL: CAJA BLANCA / HDL: WHITE BOX
+AAA AAA AAA
+
+## HDL: BLOQUES / HDL: BLOCKS
+AAA AAA AAA
+
+## SIMULACIÓN TEMPORAL / TEMPORAL SIMULATION
+AAA AAA AAA
+
 # What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
